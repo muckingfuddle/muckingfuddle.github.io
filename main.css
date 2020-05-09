@@ -827,25 +827,9 @@ footer p
 	}
 
 }
-@media screen and (max-width: 1050px) {
-	nav ul li {
-		font-size: 16px;
-		margin 1%;
-	}
-	.logo{
-		width: 20%;
-		height: 20%;
-	}
-	#navigation{
-		width: 70%;
-		position: relative;
-		left: 10%;
+@media screen and (max-width:1050px) {
 	
-	}
 	
-}
-@media screen and (max-width:900px)
-{
 	body{
 		background-position-y: 220px;
 		
@@ -895,14 +879,5 @@ footer p
 	.sliderimages{
 		animation-name: sliding_animationmini;
 	}
-	
-}
-@media screen and (max-width: 699px) {
-	
-	
-	
-	
-	
-
 	
 }
