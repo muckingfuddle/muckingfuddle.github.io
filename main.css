@@ -809,6 +809,7 @@ footer p
 	#homepagerow{
 		height: 400px;
 	}
+	
 	@-webkit-keyframes slide_animation 
 {
 	0% {transform:TranslateY(-8px);}
@@ -824,6 +825,10 @@ footer p
 	
 	.aboutmenuactualmenu{
 		display:inline-block;
+		
+	}
+	.aboutmenuactualmenu ul li {
+	
 	}
 
 }
@@ -835,7 +840,7 @@ footer p
 		
 	}
 	nav ul li {
-		font-size: 20px;
+		font-size: 24px;
 		margin 0.5%;
 	}
 	.logo{
