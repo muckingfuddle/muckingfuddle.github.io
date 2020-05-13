@@ -772,13 +772,20 @@ footer
 {
 	clear:both;
 	color:#888;
-	margin:0%;
+	margin:2%;
 	text-align: center;
 	
 }
 footer p
 {
 	font-family: Impact;
+}
+#facebooklink
+{
+	width: 3%;
+	height:3%;
+	position: relative;
+	top: 20px;
 }
 
 @media screen and (max-width: 1250px) {
