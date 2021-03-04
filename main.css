@@ -500,6 +500,12 @@ nav ul a :active
 	background-position: center;
 	height: 40px;
 }
+#skullballrow h3
+{
+	margin-left: 38%;
+	width: 20%;
+	height: 20%;
+}
 .row h5 
 
 {
@@ -625,11 +631,11 @@ nav ul a :active
 #homepagerow:hover h1::before
 {
 	
-	content: "Skull-Ball!";
+	content: "Skullball!";
 }
 #homepagerow:hover h3::before
 {
-	content: "Coming Soon";
+	content: "Out Now!";
 }
 
 .row2
