@@ -760,9 +760,7 @@ footer p
 	.row h1,.row h3,.row h4,.row h5, .row3 h2, .row h2{
 		font-size:21.5px;
 	}
-	#homepagerow{
-		height: 400px;
-	}
+	
 	
 	@-webkit-keyframes slide_animation 
 {
@@ -812,11 +810,6 @@ footer p
 	}
 	#bottomheader h1 {
 		font-size: 18px;
-	}
-
-
-		#homepagerow{
-		height: 310px;
 	}
 
 }
